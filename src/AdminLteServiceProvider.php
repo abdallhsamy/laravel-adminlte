@@ -1,6 +1,6 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte;
+namespace AbdallhSamy\LaravelAdminLte;
 
 use Illuminate\Contracts\Config\Repository;
 use Illuminate\Contracts\Container\Container;
@@ -8,12 +8,12 @@ use Illuminate\Contracts\Events\Dispatcher;
 use Illuminate\Contracts\View\Factory;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
-use JeroenNoten\LaravelAdminLte\Console\AdminLteInstallCommand;
-use JeroenNoten\LaravelAdminLte\Console\AdminLtePluginCommand;
-use JeroenNoten\LaravelAdminLte\Console\AdminLteStatusCommand;
-use JeroenNoten\LaravelAdminLte\Console\AdminLteUpdateCommand;
-use JeroenNoten\LaravelAdminLte\Events\BuildingMenu;
-use JeroenNoten\LaravelAdminLte\Http\ViewComposers\AdminLteComposer;
+use AbdallhSamy\LaravelAdminLte\Console\AdminLteInstallCommand;
+use AbdallhSamy\LaravelAdminLte\Console\AdminLtePluginCommand;
+use AbdallhSamy\LaravelAdminLte\Console\AdminLteStatusCommand;
+use AbdallhSamy\LaravelAdminLte\Console\AdminLteUpdateCommand;
+use AbdallhSamy\LaravelAdminLte\Events\BuildingMenu;
+use AbdallhSamy\LaravelAdminLte\Http\ViewComposers\AdminLteComposer;
 
 class AdminLteServiceProvider extends BaseServiceProvider
 {

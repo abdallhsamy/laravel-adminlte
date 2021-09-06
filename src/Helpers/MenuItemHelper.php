@@ -1,6 +1,6 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Helpers;
+namespace AbdallhSamy\LaravelAdminLte\Helpers;
 
 /**
  * TODO: On the future, all menu items should have a type property. We can use

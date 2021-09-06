@@ -1,9 +1,9 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Menu;
+namespace AbdallhSamy\LaravelAdminLte\Menu;
 
 use Illuminate\Support\Arr;
-use JeroenNoten\LaravelAdminLte\Helpers\MenuItemHelper;
+use AbdallhSamy\LaravelAdminLte\Helpers\MenuItemHelper;
 
 class Builder
 {

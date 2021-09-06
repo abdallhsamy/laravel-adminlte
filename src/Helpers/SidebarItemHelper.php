@@ -1,6 +1,6 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Helpers;
+namespace AbdallhSamy\LaravelAdminLte\Helpers;
 
 class SidebarItemHelper extends MenuItemHelper
 {

@@ -1,4 +1,4 @@
-@inject('navbarItemHelper', 'JeroenNoten\LaravelAdminLte\Helpers\NavbarItemHelper')
+@inject('navbarItemHelper', 'AbdallhSamy\LaravelAdminLte\Helpers\NavbarItemHelper')
 
 @if ($navbarItemHelper->isSearch($item))
 

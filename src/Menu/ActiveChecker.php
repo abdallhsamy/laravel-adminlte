@@ -1,6 +1,6 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Menu;
+namespace AbdallhSamy\LaravelAdminLte\Menu;
 
 use Illuminate\Contracts\Routing\UrlGenerator;
 use Illuminate\Http\Request;

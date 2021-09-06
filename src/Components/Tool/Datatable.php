@@ -1,6 +1,6 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Components\Tool;
+namespace AbdallhSamy\LaravelAdminLte\Components\Tool;
 
 use Illuminate\View\Component;
 

@@ -1,5 +1,5 @@
 {
-  "name": "jeroennoten/laravel-adminlte",
+  "name": "abdallhsamy/laravel-adminlte",
   "description": "Easy AdminLTE integration with Laravel",
   "keywords": ["laravel", "adminlte", "admin", "administrator"],
   "license": "MIT",
@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "JeroenNoten\\LaravelAdminLte\\": "src/"
+      "AbdallhSamy\\LaravelAdminLte\\": "src/"
     }
   },
   "autoload-dev": {
@@ -23,7 +23,7 @@
   "extra": {
       "laravel": {
           "providers": [
-              "JeroenNoten\\LaravelAdminLte\\AdminLteServiceProvider"
+              "AbdallhSamy\\LaravelAdminLte\\AdminLteServiceProvider"
           ]
       }
   },

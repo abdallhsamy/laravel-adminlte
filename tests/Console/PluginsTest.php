@@ -1,6 +1,6 @@
 <?php
 
-use JeroenNoten\LaravelAdminLte\Console\PackageResources\PluginsResource;
+use AbdallhSamy\LaravelAdminLte\Console\PackageResources\PluginsResource;
 
 class PluginsTest extends CommandTestCase
 {

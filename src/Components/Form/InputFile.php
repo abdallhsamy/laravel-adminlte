@@ -1,6 +1,6 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Components\Form;
+namespace AbdallhSamy\LaravelAdminLte\Components\Form;
 
 class InputFile extends InputGroupComponent
 {

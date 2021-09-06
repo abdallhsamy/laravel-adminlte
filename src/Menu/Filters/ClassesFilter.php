@@ -1,9 +1,9 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Menu\Filters;
+namespace AbdallhSamy\LaravelAdminLte\Menu\Filters;
 
-use JeroenNoten\LaravelAdminLte\Helpers\MenuItemHelper;
-use JeroenNoten\LaravelAdminLte\Helpers\SidebarItemHelper;
+use AbdallhSamy\LaravelAdminLte\Helpers\MenuItemHelper;
+use AbdallhSamy\LaravelAdminLte\Helpers\SidebarItemHelper;
 
 class ClassesFilter implements FilterInterface
 {

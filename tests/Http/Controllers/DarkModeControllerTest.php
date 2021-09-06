@@ -2,8 +2,8 @@
 
 use Illuminate\Support\Facades\Event;
 use Illuminate\Support\Facades\Session;
-use JeroenNoten\LaravelAdminLte\Events\DarkModeWasToggled;
-use JeroenNoten\LaravelAdminLte\Http\Controllers\DarkModeController;
+use AbdallhSamy\LaravelAdminLte\Events\DarkModeWasToggled;
+use AbdallhSamy\LaravelAdminLte\Http\Controllers\DarkModeController;
 
 class DarkModeControllerTest extends TestCase
 {

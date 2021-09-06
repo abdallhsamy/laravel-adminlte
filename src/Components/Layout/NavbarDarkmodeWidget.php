@@ -1,9 +1,9 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Components\Layout;
+namespace AbdallhSamy\LaravelAdminLte\Components\Layout;
 
 use Illuminate\View\Component;
-use JeroenNoten\LaravelAdminLte\Http\Controllers\DarkModeController;
+use AbdallhSamy\LaravelAdminLte\Http\Controllers\DarkModeController;
 
 class NavbarDarkmodeWidget extends Component
 {

@@ -1,14 +1,14 @@
 <?php
 
-use JeroenNoten\LaravelAdminLte\Console\PackageResources\AssetsResource;
-use JeroenNoten\LaravelAdminLte\Console\PackageResources\AuthViewsResource;
-use JeroenNoten\LaravelAdminLte\Console\PackageResources\BasicRoutesResource;
-use JeroenNoten\LaravelAdminLte\Console\PackageResources\BasicViewsResource;
-use JeroenNoten\LaravelAdminLte\Console\PackageResources\ConfigResource;
-use JeroenNoten\LaravelAdminLte\Console\PackageResources\MainViewsResource;
-use JeroenNoten\LaravelAdminLte\Console\PackageResources\PackageResource;
-use JeroenNoten\LaravelAdminLte\Console\PackageResources\TranslationsResource;
-use JeroenNoten\LaravelAdminLte\Helpers\CommandHelper;
+use AbdallhSamy\LaravelAdminLte\Console\PackageResources\AssetsResource;
+use AbdallhSamy\LaravelAdminLte\Console\PackageResources\AuthViewsResource;
+use AbdallhSamy\LaravelAdminLte\Console\PackageResources\BasicRoutesResource;
+use AbdallhSamy\LaravelAdminLte\Console\PackageResources\BasicViewsResource;
+use AbdallhSamy\LaravelAdminLte\Console\PackageResources\ConfigResource;
+use AbdallhSamy\LaravelAdminLte\Console\PackageResources\MainViewsResource;
+use AbdallhSamy\LaravelAdminLte\Console\PackageResources\PackageResource;
+use AbdallhSamy\LaravelAdminLte\Console\PackageResources\TranslationsResource;
+use AbdallhSamy\LaravelAdminLte\Helpers\CommandHelper;
 
 class CommandTestCase extends TestCase
 {

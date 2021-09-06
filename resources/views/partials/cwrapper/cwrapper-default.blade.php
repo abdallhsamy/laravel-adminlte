@@ -1,4 +1,4 @@
-@inject('layoutHelper', 'JeroenNoten\LaravelAdminLte\Helpers\LayoutHelper')
+@inject('layoutHelper', 'AbdallhSamy\LaravelAdminLte\Helpers\LayoutHelper')
 
 @if($layoutHelper->isLayoutTopnavEnabled())
     @php( $def_container_class = 'container' )

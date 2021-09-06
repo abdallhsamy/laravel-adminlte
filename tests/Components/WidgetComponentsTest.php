@@ -1,6 +1,6 @@
 <?php
 
-use JeroenNoten\LaravelAdminLte\Components;
+use AbdallhSamy\LaravelAdminLte\Components;
 
 class WidgetComponentsTest extends TestCase
 {

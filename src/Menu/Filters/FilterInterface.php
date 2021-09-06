@@ -1,6 +1,6 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Menu\Filters;
+namespace AbdallhSamy\LaravelAdminLte\Menu\Filters;
 
 interface FilterInterface
 {

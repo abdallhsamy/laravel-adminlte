@@ -1,6 +1,6 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Helpers;
+namespace AbdallhSamy\LaravelAdminLte\Helpers;
 
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Str;

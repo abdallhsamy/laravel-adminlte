@@ -1,6 +1,6 @@
 <?php
 
-use JeroenNoten\LaravelAdminLte\Helpers\LayoutHelper;
+use AbdallhSamy\LaravelAdminLte\Helpers\LayoutHelper;
 
 class LayoutHelperTest extends TestCase
 {

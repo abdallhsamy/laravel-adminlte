@@ -1,6 +1,6 @@
 @extends('adminlte::master')
 
-@inject('layoutHelper', 'JeroenNoten\LaravelAdminLte\Helpers\LayoutHelper')
+@inject('layoutHelper', 'AbdallhSamy\LaravelAdminLte\Helpers\LayoutHelper')
 
 @section('adminlte_css')
     @stack('css')

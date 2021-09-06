@@ -1,8 +1,8 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Events;
+namespace AbdallhSamy\LaravelAdminLte\Events;
 
-use JeroenNoten\LaravelAdminLte\Menu\Builder;
+use AbdallhSamy\LaravelAdminLte\Menu\Builder;
 
 class BuildingMenu
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Components\Form;
+namespace AbdallhSamy\LaravelAdminLte\Components\Form;
 
 use Illuminate\Support\Arr;
 use Illuminate\View\Component;
